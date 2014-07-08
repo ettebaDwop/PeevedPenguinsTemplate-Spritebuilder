@@ -23,6 +23,9 @@ CCNode *_catapultArm;
     self.userInteractionEnabled = TRUE;
     CCScene *level = [CCBReader loadAsScene:@"Levels/Level1"];
     [_levelNode addChild:level];
+    
+    // visualize physics bodies & joints
+    _physicsNode.debugDraw = TRUE;
 }
 
 // called on every touch in this scene
@@ -34,7 +37,7 @@ CCNode *_catapultArm;
     // loads the Penguin.ccb we have set up in Spritebuilder
     CCNode* penguin = [CCBReader load:@"Penguin"];
     // position the penguin at the bowl of the catapult
-    penguin.position = ccpAdd(_catapultArm.position, ccp(16, 80));
+    penguin.position = ccpAdd(_catapultArm.position, ccp(16, 50));
     
     // add the penguin to the physicsNode of this scene (because it has physics enabled)
     [_physicsNode addChild:penguin];
