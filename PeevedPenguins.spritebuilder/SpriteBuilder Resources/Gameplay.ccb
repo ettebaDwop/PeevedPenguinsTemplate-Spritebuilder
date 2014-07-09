@@ -438,24 +438,42 @@
 											<real>103.71090698242188</real>
 										</array>
 										<array>
-											<real>17.257827758789062</real>
-											<real>30.269515991210938</real>
+											<real>17.945327758789062</real>
+											<real>110.19140625</real>
 										</array>
 										<array>
-											<real>0.68359375</real>
-											<real>30.7578125</real>
+											<real>16.917984008789062</real>
+											<real>6.37890625</real>
+										</array>
+										<array>
+											<real>0.6289215087890625</real>
+											<real>6.41015625</real>
 										</array>
 									</array>
 									<key>polygons</key>
 									<array>
 										<array>
 											<array>
-												<real>0.68359375</real>
-												<real>30.7578125</real>
+												<real>1.1328277587890625</real>
+												<real>136.65625</real>
 											</array>
 											<array>
-												<real>17.257827758789062</real>
-												<real>30.269515991210938</real>
+												<real>0.6289215087890625</real>
+												<real>6.41015625</real>
+											</array>
+											<array>
+												<real>16.917984008789062</real>
+												<real>6.37890625</real>
+											</array>
+											<array>
+												<real>17.945327758789062</real>
+												<real>110.19140625</real>
+											</array>
+										</array>
+										<array>
+											<array>
+												<real>17.945327758789062</real>
+												<real>110.19140625</real>
 											</array>
 											<array>
 												<real>34.738296508789062</real>
