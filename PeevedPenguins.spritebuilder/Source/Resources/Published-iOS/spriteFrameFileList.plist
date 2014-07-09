@@ -10,6 +10,7 @@
 	<key>spriteFrameFiles</key>
 	<array>
 		<string>PeevedPenguinsAssets-2.plist</string>
+		<string>animation-2.plist</string>
 	</array>
 </dict>
 </plist>
