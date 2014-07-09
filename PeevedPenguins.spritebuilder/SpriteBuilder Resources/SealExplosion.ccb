@@ -110,7 +110,7 @@
 				<string>Point</string>
 				<key>value</key>
 				<array>
-					<real>40</real>
+					<real>20</real>
 					<real>20</real>
 				</array>
 			</dict>
@@ -120,7 +120,7 @@
 				<key>type</key>
 				<string>Float</string>
 				<key>value</key>
-				<real>80</real>
+				<real>2000</real>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -145,8 +145,8 @@
 				<string>FloatVar</string>
 				<key>value</key>
 				<array>
-					<real>3</real>
-					<real>0.25</real>
+					<real>2</real>
+					<real>1</real>
 				</array>
 			</dict>
 			<dict>
@@ -156,8 +156,8 @@
 				<string>FloatVar</string>
 				<key>value</key>
 				<array>
-					<real>54</real>
-					<real>10</real>
+					<real>40</real>
+					<real>5</real>
 				</array>
 			</dict>
 			<dict>
@@ -201,7 +201,7 @@
 				<key>value</key>
 				<array>
 					<real>90</real>
-					<real>10</real>
+					<real>0.0</real>
 				</array>
 			</dict>
 			<dict>
@@ -212,10 +212,10 @@
 				<key>value</key>
 				<array>
 					<array>
-						<real>0.75999999046325684</real>
-						<real>0.25</real>
-						<real>0.11999999731779099</real>
-						<real>255</real>
+						<real>0.97030603885650635</real>
+						<real>0.52932775020599365</real>
+						<real>0.27747514843940735</real>
+						<real>1</real>
 					</array>
 					<array>
 						<real>0.0</real>
@@ -254,7 +254,7 @@
 				<key>value</key>
 				<array>
 					<integer>1</integer>
-					<integer>1</integer>
+					<integer>771</integer>
 				</array>
 			</dict>
 			<dict>
@@ -273,7 +273,7 @@
 				<key>value</key>
 				<array>
 					<real>0.0</real>
-					<real>0.0</real>
+					<real>-40</real>
 				</array>
 			</dict>
 			<dict>
@@ -284,7 +284,7 @@
 				<key>value</key>
 				<array>
 					<real>60</real>
-					<real>20</real>
+					<real>0.0</real>
 				</array>
 			</dict>
 			<dict>
@@ -295,7 +295,7 @@
 				<key>value</key>
 				<array>
 					<real>0.0</real>
-					<real>0.0</real>
+					<real>5</real>
 				</array>
 			</dict>
 			<dict>
@@ -306,7 +306,7 @@
 				<key>value</key>
 				<array>
 					<real>0.0</real>
-					<real>0.0</real>
+					<real>20</real>
 				</array>
 			</dict>
 			<dict>
