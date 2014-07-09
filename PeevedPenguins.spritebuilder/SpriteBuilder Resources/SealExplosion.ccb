@@ -136,7 +136,7 @@
 				<key>type</key>
 				<string>Integer</string>
 				<key>value</key>
-				<integer>250</integer>
+				<integer>50</integer>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -179,7 +179,7 @@
 				<key>value</key>
 				<array>
 					<real>0.0</real>
-					<real>0.0</real>
+					<real>90</real>
 				</array>
 			</dict>
 			<dict>
@@ -200,8 +200,8 @@
 				<string>FloatVar</string>
 				<key>value</key>
 				<array>
-					<real>90</real>
-					<real>0.0</real>
+					<real>240</real>
+					<real>30</real>
 				</array>
 			</dict>
 			<dict>
@@ -212,16 +212,16 @@
 				<key>value</key>
 				<array>
 					<array>
-						<real>0.97030603885650635</real>
-						<real>0.52932775020599365</real>
-						<real>0.27747514843940735</real>
 						<real>1</real>
+						<real>1</real>
+						<real>1</real>
+						<real>0.0</real>
 					</array>
 					<array>
 						<real>0.0</real>
 						<real>0.0</real>
 						<real>0.0</real>
-						<real>0.0</real>
+						<real>0.50999999046325684</real>
 					</array>
 				</array>
 			</dict>
@@ -233,16 +233,16 @@
 				<key>value</key>
 				<array>
 					<array>
+						<real>0.76692485809326172</real>
+						<real>0.76037424802780151</real>
+						<real>0.78348678350448608</real>
 						<real>0.0</real>
-						<real>0.0</real>
-						<real>0.0</real>
-						<real>255</real>
 					</array>
 					<array>
-						<real>0.0</real>
-						<real>0.0</real>
-						<real>0.0</real>
-						<real>0.0</real>
+						<real>0.0026824995875358582</real>
+						<real>0.0026721642352640629</real>
+						<real>0.0028526971582323313</real>
+						<real>0.44999998807907104</real>
 					</array>
 				</array>
 			</dict>
@@ -283,7 +283,7 @@
 				<string>FloatVar</string>
 				<key>value</key>
 				<array>
-					<real>60</real>
+					<real>50</real>
 					<real>0.0</real>
 				</array>
 			</dict>
@@ -315,7 +315,7 @@
 				<key>type</key>
 				<string>Texture</string>
 				<key>value</key>
-				<string>ccbResources/ccbParticleFire.png</string>
+				<string>ccbResources/ccbParticleSmoke.png</string>
 			</dict>
 		</array>
 		<key>selected</key>
