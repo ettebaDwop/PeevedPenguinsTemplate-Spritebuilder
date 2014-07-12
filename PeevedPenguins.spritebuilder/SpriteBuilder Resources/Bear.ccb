@@ -110,7 +110,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>PeevedPenguinsAssets-2/bearnoarms.png</string>
+							<string>PeevedPenguinsAssets/bearnoarms.png</string>
 						</array>
 					</dict>
 					<dict>
@@ -270,7 +270,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>PeevedPenguinsAssets-2/beararm.png</string>
+							<string>PeevedPenguinsAssets/beararm.png</string>
 						</array>
 					</dict>
 					<dict>
@@ -287,6 +287,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 				<key>seqExpanded</key>
 				<true/>
 			</dict>

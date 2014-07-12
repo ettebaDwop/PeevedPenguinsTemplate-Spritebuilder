@@ -112,7 +112,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>PeevedPenguinsAssets-2/menubackground.png</string>
+							<string>PeevedPenguinsAssets/background.png</string>
 						</array>
 					</dict>
 					<dict>
@@ -257,7 +257,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>PeevedPenguinsAssets-2/button.png</string>
+							<string>PeevedPenguinsAssets/button.png</string>
 						</array>
 					</dict>
 					<dict>
@@ -268,7 +268,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>PeevedPenguinsAssets-2/button.png</string>
+							<string>PeevedPenguinsAssets/button.png</string>
 						</array>
 					</dict>
 					<dict>
@@ -455,6 +455,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -527,8 +529,6 @@
 				</array>
 			</dict>
 		</array>
-		<key>selected</key>
-		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>

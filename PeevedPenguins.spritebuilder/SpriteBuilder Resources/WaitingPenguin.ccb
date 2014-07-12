@@ -1731,7 +1731,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>animation-2/94.png</string>
+								<string>PeevedPenguinsAssets/waitingpenguin.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -2284,7 +2284,7 @@
 				<key>value</key>
 				<array>
 					<string></string>
-					<string>animation-2/1.png</string>
+					<string>PeevedPenguinsAssets/waitingpenguin.png</string>
 				</array>
 			</dict>
 			<dict>
