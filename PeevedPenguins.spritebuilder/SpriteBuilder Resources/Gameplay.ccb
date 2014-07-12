@@ -55,8 +55,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>223.23829650878906</real>
-						<real>104.36719512939453</real>
+						<real>298.73828125</real>
+						<real>118.36719512939453</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -355,7 +355,7 @@
 								<key>value</key>
 								<array>
 									<string></string>
-									<string>PeevedPenguinsAssets-2/background.png</string>
+									<string>PeevedPenguinsAssets/background.png</string>
 								</array>
 							</dict>
 							<dict>
@@ -516,7 +516,7 @@
 										<key>value</key>
 										<array>
 											<string></string>
-											<string>PeevedPenguinsAssets-2/catapultarm.png</string>
+											<string>PeevedPenguinsAssets/catapultarm.png</string>
 										</array>
 									</dict>
 									<dict>
@@ -533,8 +533,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -732,7 +730,7 @@
 										<key>value</key>
 										<array>
 											<string></string>
-											<string>PeevedPenguinsAssets-2/catapult.png</string>
+											<string>PeevedPenguinsAssets/catapult.png</string>
 										</array>
 									</dict>
 									<dict>
@@ -1026,7 +1024,7 @@
 										<key>value</key>
 										<array>
 											<string></string>
-											<string>PeevedPenguinsAssets-2/ground.png</string>
+											<string>PeevedPenguinsAssets/ground.png</string>
 										</array>
 									</dict>
 									<dict>
@@ -1544,6 +1542,8 @@
 								<string>WaitingPenguin.ccb</string>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 				</array>
 				<key>customClass</key>
