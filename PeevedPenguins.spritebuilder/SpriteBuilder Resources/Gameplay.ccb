@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>25</integer>
+	<integer>28</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -1359,7 +1359,7 @@
 					</dict>
 					<dict>
 						<key>UUID</key>
-						<integer>23</integer>
+						<integer>25</integer>
 						<key>baseClass</key>
 						<string>CCBFile</string>
 						<key>children</key>
@@ -1390,7 +1390,7 @@
 								<key>value</key>
 								<array>
 									<real>46</real>
-									<real>52</real>
+									<real>51</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1418,10 +1418,12 @@
 								<string>WaitingPenguin.ccb</string>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>UUID</key>
-						<integer>22</integer>
+						<integer>26</integer>
 						<key>baseClass</key>
 						<string>CCBFile</string>
 						<key>children</key>
@@ -1451,7 +1453,7 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>82</real>
+									<real>78</real>
 									<real>51</real>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1483,7 +1485,7 @@
 					</dict>
 					<dict>
 						<key>UUID</key>
-						<integer>24</integer>
+						<integer>27</integer>
 						<key>baseClass</key>
 						<string>CCBFile</string>
 						<key>children</key>
@@ -1513,8 +1515,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>116</real>
-									<real>50</real>
+									<real>112</real>
+									<real>51</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1542,8 +1544,6 @@
 								<string>WaitingPenguin.ccb</string>
 							</dict>
 						</array>
-						<key>selected</key>
-						<true/>
 					</dict>
 				</array>
 				<key>customClass</key>
