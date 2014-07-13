@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>19</integer>
+	<integer>22</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -1359,7 +1359,7 @@
 					</dict>
 					<dict>
 						<key>UUID</key>
-						<integer>16</integer>
+						<integer>19</integer>
 						<key>baseClass</key>
 						<string>CCBFile</string>
 						<key>children</key>
@@ -1389,8 +1389,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>36</real>
-									<real>48</real>
+									<real>0.0</real>
+									<real>0.0</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1421,7 +1421,7 @@
 					</dict>
 					<dict>
 						<key>UUID</key>
-						<integer>17</integer>
+						<integer>20</integer>
 						<key>baseClass</key>
 						<string>CCBFile</string>
 						<key>children</key>
@@ -1451,8 +1451,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>73</real>
-									<real>47</real>
+									<real>0.0</real>
+									<real>0.0</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1483,7 +1483,7 @@
 					</dict>
 					<dict>
 						<key>UUID</key>
-						<integer>18</integer>
+						<integer>21</integer>
 						<key>baseClass</key>
 						<string>CCBFile</string>
 						<key>children</key>
@@ -1513,8 +1513,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>108</real>
-									<real>48</real>
+									<real>0.0</real>
+									<real>0.0</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1542,6 +1542,8 @@
 								<string>WaitingPenguin.ccb</string>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 				</array>
 				<key>customClass</key>
@@ -1940,8 +1942,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -2067,9 +2067,9 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>4.1369791030883789</real>
+			<real>0.033333335071802139</real>
 			<key>position</key>
-			<real>8.5666666030883789</real>
+			<real>3.7333333492279053</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
