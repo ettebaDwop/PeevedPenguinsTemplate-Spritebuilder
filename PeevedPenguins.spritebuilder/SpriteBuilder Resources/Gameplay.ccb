@@ -1389,8 +1389,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>0.0</real>
-									<real>0.0</real>
+									<real>103</real>
+									<real>47</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1451,8 +1451,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>0.0</real>
-									<real>0.0</real>
+									<real>67</real>
+									<real>48</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1513,8 +1513,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>0.0</real>
-									<real>0.0</real>
+									<real>30</real>
+									<real>49</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1542,8 +1542,6 @@
 								<string>WaitingPenguin.ccb</string>
 							</dict>
 						</array>
-						<key>selected</key>
-						<true/>
 					</dict>
 				</array>
 				<key>customClass</key>
@@ -2067,9 +2065,9 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>0.033333335071802139</real>
+			<real>2.2369790077209473</real>
 			<key>position</key>
-			<real>3.7333333492279053</real>
+			<real>6.6666665077209473</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
