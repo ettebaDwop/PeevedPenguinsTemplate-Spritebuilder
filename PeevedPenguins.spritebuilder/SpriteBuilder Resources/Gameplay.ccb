@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>22</integer>
+	<integer>25</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -1359,7 +1359,7 @@
 					</dict>
 					<dict>
 						<key>UUID</key>
-						<integer>19</integer>
+						<integer>23</integer>
 						<key>baseClass</key>
 						<string>CCBFile</string>
 						<key>children</key>
@@ -1389,8 +1389,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>103</real>
-									<real>47</real>
+									<real>46</real>
+									<real>52</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1421,7 +1421,7 @@
 					</dict>
 					<dict>
 						<key>UUID</key>
-						<integer>20</integer>
+						<integer>22</integer>
 						<key>baseClass</key>
 						<string>CCBFile</string>
 						<key>children</key>
@@ -1451,8 +1451,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>67</real>
-									<real>48</real>
+									<real>82</real>
+									<real>51</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1483,7 +1483,7 @@
 					</dict>
 					<dict>
 						<key>UUID</key>
-						<integer>21</integer>
+						<integer>24</integer>
 						<key>baseClass</key>
 						<string>CCBFile</string>
 						<key>children</key>
@@ -1513,8 +1513,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>30</real>
-									<real>49</real>
+									<real>116</real>
+									<real>50</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1542,6 +1542,8 @@
 								<string>WaitingPenguin.ccb</string>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 				</array>
 				<key>customClass</key>
@@ -2065,9 +2067,9 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>2.2369790077209473</real>
+			<real>0.0</real>
 			<key>position</key>
-			<real>6.6666665077209473</real>
+			<real>2</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
