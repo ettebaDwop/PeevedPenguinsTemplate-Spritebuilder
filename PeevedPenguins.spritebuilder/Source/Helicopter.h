@@ -11,7 +11,7 @@
 
 @interface Helicopter : CCSprite
 
-- (void)crashLand;
+//- (void)crashLand;
 
 
 @end
